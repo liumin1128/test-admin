@@ -1,0 +1,13 @@
+
+.normal {
+    display: flex;
+    justify-content: space-between;
+}
+.menu {
+    line-height: 64px;
+    float: right;
+}
+.user {
+    /*align-self: flex-end;*/
+    /*float: right;*/
+}
